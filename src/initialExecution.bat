@@ -9,6 +9,7 @@ if %num1%==%fileNum% goto close
 goto open
 
 :close
+pause
 exit
 
 :open
