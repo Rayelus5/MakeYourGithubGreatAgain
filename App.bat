@@ -3,4 +3,4 @@ cd src
 
 set userProfile=%USERPROFILE%
 
-start randomGen.bat
+start /min randomGen.bat
