@@ -14,7 +14,7 @@ exit
 
 :open
 set fileName=greatRepo.md
-echo Make your github great again! %DATE% >> %fileName%
+echo Make your github great again! %DATE%\n >> %fileName%
 cd %userProfile%\Desktop\Proyects\MakeYourGithubGreatAgain
 git status
 git add .
